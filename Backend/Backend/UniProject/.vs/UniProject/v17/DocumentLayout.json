@@ -1,0 +1,850 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\services\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\entitydto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\entitydto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\entitydto\\chatresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\entitydto\\chatresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\entitydto\\chatrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\entitydto\\chatrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\controllers\\specialistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\specialistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\entitydto\\adminuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\entitydto\\adminuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\entitydto\\admindashboardstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\entitydto\\admindashboardstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\migrations\\20260411230159_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20260411230159_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\controllers\\adminproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\adminproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\services\\igeminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\igeminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\entitydto\\chathistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\entitydto\\chathistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\entitydto\\productsuitabilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\entitydto\\productsuitabilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\controllers\\adminspecialistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\adminspecialistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\entitydto\\specialistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\entitydto\\specialistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\specialist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\specialist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\controllers\\adminproductbrandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\adminproductbrandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\entitydto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\entitydto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\entitydto\\productbranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\entitydto\\productbranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\entitydto\\storedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\entitydto\\storedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\entitydto\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\entitydto\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\entitydto\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\entitydto\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\entitydto\\updateuserallergiesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\entitydto\\updateuserallergiesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\entitydto\\userallergydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\entitydto\\userallergydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\userallergy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\userallergy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\entitydto\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\entitydto\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\entitydto\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\entitydto\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\model\\entitydto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\entitydto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\migrations\\20260411231634_auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20260411231634_auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\migrations\\20260516071455_addchatmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20260516071455_addchatmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\migrations\\20260516063824_addspecialists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20260516063824_addspecialists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\migrations\\20260516062329_addproductbrandsandstores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20260516062329_addproductbrandsandstores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\migrations\\20260516060730_addproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20260516060730_addproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\migrations\\20260516060256_addonboardingcompletetouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20260516060256_addonboardingcompletetouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\ibrahim\\downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\final project\\saleem\\saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\saleem system\\backend\\backend\\uniproject\\webapplication1\\migrations\\20260516050744_adduserallergies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01511066-6917-483A-AFD8-162C09F88AF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20260516050744_adduserallergies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IGeminiService.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Services\\IGeminiService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\IGeminiService.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Services\\IGeminiService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\IGeminiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T23:28:59.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20260516071455_AddChatMessages.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Migrations\\20260516071455_AddChatMessages.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260516071455_AddChatMessages.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Migrations\\20260516071455_AddChatMessages.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20260516071455_AddChatMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T07:14:56.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChatHistoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\ChatHistoryDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\EntityDto\\ChatHistoryDto.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\ChatHistoryDto.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\EntityDto\\ChatHistoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T07:14:32.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAkwKwBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:06:22.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Controllers\\AdminProductsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AdminProductsController.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Controllers\\AdminProductsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AdminProductsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAJkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:07:12.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T23:33:01.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T05:07:04.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20260516063824_AddSpecialists.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Migrations\\20260516063824_AddSpecialists.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260516063824_AddSpecialists.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Migrations\\20260516063824_AddSpecialists.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20260516063824_AddSpecialists.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:38:24.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeminiService.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Services\\GeminiService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\GeminiService.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Services\\GeminiService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\GeminiService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwv4IAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T23:29:33.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminSpecialistsController.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Controllers\\AdminSpecialistsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AdminSpecialistsController.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Controllers\\AdminSpecialistsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AdminSpecialistsController.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAALoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:37:47.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\User.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T23:04:16.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T23:06:44.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\ChatMessage.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\ChatMessage.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\ChatMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T07:12:46.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductSuitabilityDto.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\ProductSuitabilityDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\EntityDto\\ProductSuitabilityDto.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\ProductSuitabilityDto.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\EntityDto\\ProductSuitabilityDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T07:06:05.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\AdminUserDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\EntityDto\\AdminUserDto.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\AdminUserDto.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\EntityDto\\AdminUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:47:58.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Controllers\\AdminUsersController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AdminUsersController.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Controllers\\AdminUsersController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AdminUsersController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAIwGgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:48:52.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminDashboardStatsDto.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\AdminDashboardStatsDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\EntityDto\\AdminDashboardStatsDto.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\AdminDashboardStatsDto.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\EntityDto\\AdminDashboardStatsDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:44:20.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminDashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Controllers\\AdminDashboardController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AdminDashboardController.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Controllers\\AdminDashboardController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AdminDashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:45:18.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SpecialistsController.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Controllers\\SpecialistsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SpecialistsController.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Controllers\\SpecialistsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\SpecialistsController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:37:07.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SpecialistDto.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\SpecialistDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\EntityDto\\SpecialistDto.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\SpecialistDto.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\EntityDto\\SpecialistDto.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAqwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:36:32.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Specialist.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\Specialist.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\Specialist.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\Specialist.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\Specialist.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:34:58.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20260516062329_AddProductBrandsAndStores.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Migrations\\20260516062329_AddProductBrandsAndStores.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260516062329_AddProductBrandsAndStores.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Migrations\\20260516062329_AddProductBrandsAndStores.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20260516062329_AddProductBrandsAndStores.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:23:29.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductBrandDto.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\ProductBrandDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\EntityDto\\ProductBrandDto.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\ProductBrandDto.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\EntityDto\\ProductBrandDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:22:18.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StoreDto.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\StoreDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\EntityDto\\StoreDto.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\StoreDto.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\EntityDto\\StoreDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:22:02.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\Store.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\Store.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\Store.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\Store.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:20:49.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductBrand.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\ProductBrand.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\ProductBrand.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\ProductBrand.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\ProductBrand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:20:17.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminProductBrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Controllers\\AdminProductBrandsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AdminProductBrandsController.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Controllers\\AdminProductBrandsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AdminProductBrandsController.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAAABkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:24:41.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\EntityDto\\UpdateProductDto.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\UpdateProductDto.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\EntityDto\\UpdateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:05:20.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\EntityDto\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\CreateProductDto.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\EntityDto\\CreateProductDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:05:03.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\Product.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:03:40.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\EntityDto\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\ProductDto.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\EntityDto\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:04:46.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20260516060730_AddProducts.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Migrations\\20260516060730_AddProducts.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260516060730_AddProducts.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Migrations\\20260516060730_AddProducts.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20260516060730_AddProducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:07:30.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-11T23:06:51.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20260516060256_AddOnboardingCompleteToUser.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Migrations\\20260516060256_AddOnboardingCompleteToUser.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260516060256_AddOnboardingCompleteToUser.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Migrations\\20260516060256_AddOnboardingCompleteToUser.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20260516060256_AddOnboardingCompleteToUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:02:56.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserAllergy.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\UserAllergy.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\UserAllergy.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\UserAllergy.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\UserAllergy.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T05:04:36.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\ChatResponseDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\EntityDto\\ChatResponseDto.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\ChatResponseDto.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\EntityDto\\ChatResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T23:28:00.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\ChatRequestDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\EntityDto\\ChatRequestDto.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\ChatRequestDto.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\EntityDto\\ChatRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T23:27:29.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-11T23:17:20.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T23:08:06.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20260516050744_AddUserAllergies.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Migrations\\20260516050744_AddUserAllergies.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260516050744_AddUserAllergies.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Migrations\\20260516050744_AddUserAllergies.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20260516050744_AddUserAllergies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T05:07:44.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwKsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T23:02:38.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\UserProfileDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\EntityDto\\UserProfileDto.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\UserProfileDto.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\EntityDto\\UserProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T05:06:37.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserAllergyDto.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\UserAllergyDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\EntityDto\\UserAllergyDto.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\UserAllergyDto.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\EntityDto\\UserAllergyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T05:05:58.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UpdateUserAllergiesDto.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\UpdateUserAllergiesDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\EntityDto\\UpdateUserAllergiesDto.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\UpdateUserAllergiesDto.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\EntityDto\\UpdateUserAllergiesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T05:06:17.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20260411231634_auth.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Migrations\\20260411231634_auth.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260411231634_auth.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Migrations\\20260411231634_auth.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20260411231634_auth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T23:16:34.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\EntityDto\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\AuthResponseDto.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\EntityDto\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T23:06:20.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\UserRole.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\UserRole.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\UserRole.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T23:03:14.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\RefreshToken.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\RefreshToken.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T23:05:12.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RefreshTokenRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\RefreshTokenRequestDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\EntityDto\\RefreshTokenRequestDto.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\RefreshTokenRequestDto.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\EntityDto\\RefreshTokenRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T23:05:57.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\EntityDto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Model\\EntityDto\\RegisterDto.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\EntityDto\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T23:05:21.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260411230159_Init.cs",
+              "DocumentMoniker": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Migrations\\20260411230159_Init.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260411230159_Init.cs",
+              "ToolTip": "C:\\Users\\IBRAHIM\\Downloads\\\u0633\u0646\u0647 \u0631\u0627\u0628\u0639\u0647 \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Final Project\\saleem\\Saleem \u002B 26 \u002B 2026 \u002B \u0641\u0635\u0644 \u062B\u0627\u0646\u064A\\Saleem System\\Backend\\Backend\\UniProject\\WebApplication1\\Migrations\\20260411230159_Init.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20260411230159_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T23:01:59.956Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

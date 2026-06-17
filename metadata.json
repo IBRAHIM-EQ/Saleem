@@ -1,0 +1,8 @@
+{
+  "name": "Saleem - AI Food Safety Companion",
+  "description": "An AI-powered companion for food safety and allergy management, helping users find safe products and consult with specialists.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
