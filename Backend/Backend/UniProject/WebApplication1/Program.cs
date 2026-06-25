@@ -48,24 +48,13 @@ builder.Services.AddAuthorization();
 // CORS
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowFrontend", policy =>
-    {
-        policy
-            .WithOrigins(
-                "http://localhost:3000",
-                "https://localhost:3000",
-                "http://localhost:5173",   // Vite default dev port
-                "https://localhost:5173",
-                "http://localhost:4173",   // Vite preview port
-                "https://localhost:4173",
-                "http://127.0.0.1:5173",
-                "https://127.0.0.1:5173",
-                "http://127.0.0.1:3000",
-                "http://192.168.1.19:3000"
-            )
-            .AllowAnyHeader()
-            .AllowAnyMethod();
-    });
+    options.AddPolicy("AllowAll",
+        policy =>
+        {
+            policy.AllowAnyOrigin()
+                  .AllowAnyMethod()
+                  .AllowAnyHeader();
+        });
 });
 
 var app = builder.Build();
@@ -77,7 +66,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.UseCors("AllowFrontend");
+app.UseCors("AllowAll");
 
 app.UseAuthentication();
 app.UseAuthorization();
