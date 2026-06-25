@@ -11,9 +11,18 @@
  *   Admin       → /api/admin/* (dashboard, products, brands, specialists, users)
  */
 
-
-
 const BASE_URL = import.meta.env.VITE_API_BASE_URL;
+
+export const getStats = async () => {
+  const response = await fetch(`${BASE_URL}/api/admin/dashboard/stats`, {
+    method: 'GET',
+    headers: {
+      'Content-Type': 'application/json',
+      'ngrok-skip-browser-warning': 'true' // أضفه هنا
+    }
+  });
+  return response.json();
+};
 
 // ─────────────────────────────────────────────
 // Token helpers (localStorage — tokens only, not data)
